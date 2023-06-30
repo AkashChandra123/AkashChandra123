@@ -1,16 +1,5 @@
-### Hi there 👋 AKASH HERE
+# Welcome to GitHub Desktop!
 
-<!--
-**AkashChandra123/AkashChandra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on AI ML
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about JAVA
-- 📫 How to reach me: CONTACT ME :- <a href="">
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Write your name on line 6, save it, and then head back to GitHub Desktop.
