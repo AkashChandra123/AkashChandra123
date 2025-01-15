@@ -1,3 +1,3 @@
- I am working on Artificial Intelligence and Machine learning.
+ I am working on Machine learning in python.
 Learning Data structure
-Working on DAA
+and DAA
